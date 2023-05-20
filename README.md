@@ -1,2 +1,1 @@
-Practicing my development skills
-Built this Buisness Card using HTML and CSS
+Built an basic business card using HTML & CSS
